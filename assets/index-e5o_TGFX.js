@@ -24578,7 +24578,7 @@ const tD = {
                 className: "hidden md:flex items-center gap-3",
                 children: [
                   C.jsx("a", {
-                    href: "https://x.com",
+                    href: "https://x.com/Azure_elon",
                     target: "_blank",
                     rel: "noopener",
                     className:
@@ -24635,7 +24635,7 @@ const tD = {
                   ],
                 }),
                 C.jsx("a", {
-                  href: "https://t.me",
+                  href: "https://t.me/Azure_elon",
                   target: "_blank",
                   rel: "noopener",
                   className:
@@ -24947,16 +24947,6 @@ const tD = {
                   }),
                 }),
               }),
-              C.jsx("p", {
-                className: "text-muted-foreground text-sm mt-4",
-                children: C.jsx("a", {
-                  href: "https://x.com/i/status/2044360349768450171",
-                  target: "_blank",
-                  rel: "noopener",
-                  className: "hover:text-gold transition-colors underline",
-                  children: "Watch on 𝕏 →",
-                }),
-              }),
             ],
           }),
         }),
@@ -25107,7 +25097,7 @@ const tD = {
               "flex flex-col sm:flex-row flex-wrap justify-center gap-3 sm:gap-6 mb-8",
             children: [
               C.jsx("a", {
-                href: "https://t.me",
+                href: "https://t.me/Azure_elon",
                 target: "_blank",
                 rel: "noopener",
                 className:
